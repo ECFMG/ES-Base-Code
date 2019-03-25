@@ -1,0 +1,36 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true
+        },
+        {
+            "path": "force-app",
+            "package": "ES-Base-Objects",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        },
+        {
+            "path": "es-base-code",
+            "package": "ES-Base_Code",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false,
+            "dependencies": [
+                {
+                    "package": "ES-Base-Objects",
+                    "versionNumber": "0.1.0.LATEST"
+                }
+            ]
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "45.0",
+    "packageAliases": {
+        "ES-Base_Code": "0Hof4000000CacoCAC",
+        "ES-Base-Objects": "0Hof4000000CacjCAC",
+        "ES-Base_Code@0.1.0-1": "04tf40000047qybAAA"
+    }
+}

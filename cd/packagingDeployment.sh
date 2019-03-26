@@ -33,7 +33,7 @@
 # In CI-CD, the build folder becomes the working folder 
 BUILD_NAME="ECFMG.ES-Base-Code - CI"
 PACKAGE_NAME="ES-Base_Code"
-PACKAGE_VERSION="ES-Base_Code@0.1.0-1"
+PACKAGE_VERSION="ES-Base_Code@0.1.0-2"
 
 # Default values
 ACTION=$1

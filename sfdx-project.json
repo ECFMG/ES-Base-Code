@@ -18,7 +18,9 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "45.0",
     "packageAliases": {
+        "EzSpaceBaseObjects": "0Hof4000000CacjCAC",
         "ES-Base_Code": "0Hof4000000CacoCAC",
-        "ES-Base_Code@0.1.0-1": "04tf40000047qybAAA"
+        "ES-Base_Code@0.1.0-1": "04tf40000047qybAAA",
+        "ES-Base_Code@0.1.0-2": "04tf40000047rGsAAI"
     }
 }

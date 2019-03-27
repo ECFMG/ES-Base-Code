@@ -31,4 +31,4 @@ sfdx force:auth:jwt:grant --clientid $APP_CONSUMER_KEY --username $APP_USERNAME 
 echo 
 echo "Displaying Org Info:"
 sfdx force:org:list --verbose
-sfdx force:org:display -u CDOrg 
+sfdx force:org:display -u CDOrg

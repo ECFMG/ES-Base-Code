@@ -12,7 +12,7 @@
                     "versionNumber": "0.1.0.LATEST"
                 }
             ]
-        },
+        }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
